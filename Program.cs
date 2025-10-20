@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Caso_1_Inventario_Rápido___Tienda__ElectroPlus_
 {
-    class Producto
+    class Producto // comentario1
     {
         public string Codigo { get; set; }
         public string Nombre { get; set; }
