@@ -150,3 +150,4 @@ namespace Caso_1_Inventario_Rápido___Tienda__ElectroPlus_
 
     }
 }
+// tercer comentario
