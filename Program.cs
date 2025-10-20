@@ -11,7 +11,7 @@ namespace Caso_1_Inventario_Rápido___Tienda__ElectroPlus_
         public int Cantidad { get; set; }
     }
 
-    class Program
+    class Program // Segundo comentario
     {
         static void Main(string[] args)
         {
